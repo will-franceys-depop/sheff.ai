@@ -7,7 +7,7 @@
    pip install -r requirements.txt
    ```
 
-2. **Run Locally**: Start a local server to preview your site.
+2. **Run Locally**: Start a local server to preview the site.
    ```bash
    mkdocs serve -w .
    ```
