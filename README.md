@@ -15,4 +15,4 @@
 3. **Deploy to GitHub Pages**: Go live with:
    ```bash
    mkdocs gh-deploy
-   ```l
+   ```

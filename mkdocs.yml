@@ -2,8 +2,8 @@ site_name: Sheffield AI
 site_author: Will Franceys
 site_description: >-
   Sheffield AI
-# repo_name: sheff.ai
-# repo_url: https://github.com/wfranceys/sheff.ai
+repo_name: sheff.ai
+repo_url: https://github.com/wfranceys/sheff.ai
 site_url: https://sheff.ai/
 edit_uri: edit/main/docs/
 theme:
@@ -148,3 +148,6 @@ extra:
       link: https://github.com/wfranceys/sheff.ai
 extra_css:
   - stylesheets/extra.css
+use_directory_urls: true
+docs_dir: docs
+site_dir: site
