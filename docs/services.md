@@ -17,7 +17,7 @@ We work with start-ups who:
 
 We work with teams who:
 
-* **Aren't getting value from their AI investments** - We've seen many a struggling teams with smart people who aren't getting the value they should be. We diagnose the problem and help you get back on track.
+* **Aren't getting value from their AI investments** - We've seen many struggling teams with smart people who aren't getting the value they should be. We diagnose the problem and help you get back on track.
 
 * **Need coaching on engineering practices** - We run training programs to get your teams up to speed on software engineering practices. We've run programs for new graduates to senior teams.
 
@@ -36,7 +36,7 @@ We work with teams who:
   </div>
 
   <div class="testimonial-card">
-    <p class="quote">"Thanks Will, I've really appreciated having your thoughtful input, trying to understand the underlying challanges we have, and suggesting appropriate tools/technologies/process. <strong>It's been invaluable to have someone that's 12-18 months ahead of us in the maturity journey with a similar stack to bounce ideas off of.</strong>"</p>
+    <p class="quote">"Thanks Will, I've really appreciated having your thoughtful input, trying to understand the underlying challenges we have, and suggesting appropriate tools/technologies/process. <strong>It's been invaluable to have someone that's 12-18 months ahead of us in the maturity journey with a similar stack to bounce ideas off of.</strong>"</p>
     <p class="author">— Tom, CTO at Filtered</p>
   </div>
   
