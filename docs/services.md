@@ -1,16 +1,27 @@
-# AI Consulting for Engineering Leaders
+# Consulting
 
-## We Work With Engineering Leaders Like You Who
 
-* **Lack in-house AI expertise** - We will work with you to build products that are AI-enabled, and help you build the right team to support them.
 
-* **Need guidance on how to build with the latest tools** - We help you navigate cutting-edge AI frameworks, ensuring you choose the right tech for your needs.
+## Fast Growing Start-ups
 
-* **Need coaching on engineering practices** - We coach engineering teams on best practices for model performance, scalability, and maintainability. 
+We work with start-ups who:
 
-* **Not getting the value out of your AI investments** - We audit your AI systems, optimize performance, and realign them with business goals.
+* **Lack in-house AI expertise** - We've worked at places like Expedia, Accenture, and NASA and work with you to plan, build, and scale your AI initiatives.
 
-* **AI projects stuck in proof-of-concept limbo** - We help you move from prototypes to production with scalable and reliable AI solutions.
+* **Need to build a first-version of their product** - We will build a minimum viable product to get feedback from your users.
+
+* **Need senior AI expertise without the full-time cost** - Save money and stay flexible by accessing expert guidance only when you need it. We help you navigate the AI landscape and make smart decisions without committing to a full-time hire.
+
+---
+## Data Science Teams
+
+We work with teams who:
+
+* **Aren't getting value from their AI investments** - We've seen many a struggling teams with smart people who aren't getting the value they should be. We diagnose the problem and help you get back on track.
+
+* **Need coaching on engineering practices** - We run training programs to get your teams up to speed on software engineering practices. We've run programs for new graduates to senior teams.
+
+* **Have AI projects stuck in proof-of-concept limbo** - We help you move from prototypes to production to get value from your AI investments. We focus on simple incremental improvements that get you the most value. 
 
 
 [:material-email: Request a Consultation](mailto:will.franceys@gmail.com){ .md-button .md-button--primary }
