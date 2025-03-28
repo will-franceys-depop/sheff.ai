@@ -62,4 +62,4 @@ We work with teams who:
 </style>
 
 [:material-email: Contact Us](mailto:team@sheff.ai){ .md-button .md-button--primary }
-[:material-calendar: Schedule a Call](https://form.typeform.com/to/Nfy53vRi){ .md-button .md-button--secondary }
+<!-- [:material-calendar: Schedule a Call](https://form.typeform.com/to/Nfy53vRi){ .md-button .md-button--secondary } -->
