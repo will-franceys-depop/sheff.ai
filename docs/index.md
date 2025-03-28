@@ -1,19 +1,23 @@
 # 👋 Hi There!
 
-We're Nadine and Will of Sheffield AI. We help businesses build and develop their data, teams, and systems.
+We're Nadine and Will of Sheffield AI. We are experienced consultants with 15 years combined experience specialising in data science and machine learning for industrial and engineering applications. 
 
-We bring a broad range of expertise in helping businesses build data products - and have a strong track record in delivering resilient and valuable systems in the machine learning space.
+Nadine is a Data Scientist with a PhD in Astrophysics. Nadine has held research positions at UCL and NASA, focusing on the analysis of large datasets from spacecraft, and has extensive experience in signal processing in time series and image data. Since leaving academia, Nadine has applied advanced analytics solutions in numerous industrial settings. 
 
-We've worked across major industries including travel, education, advertising, and media, helping organizations of all sizes transform their operations with AI.
+Will is a Machine Learning Engineer and has built machine learning products serving millions of users, with expertise in AWS, Azure, and data infrastructure. Will’s specialities include computer vision and end-to-end deployment of machine learning systems. 
+
+Together, we have delivered multimillion-pound innovations across industries, helping businesses harness AI and machine learning to improve operations and efficiency.
 
 ## Consulting
 
 We run a consulting practice focused on helping companies build better practices as many companies transition to AI.
 
-| Company | Role | Industry |
+<!-- ## Previous Clients -->
+
+<!-- | Company | Role | Industry |
 |---------|------|----------|
 | Photon LER | CEO | Medical |
-| Filtered | CTO | Education |
+| Filtered | CTO | Education | -->
 
 
 
