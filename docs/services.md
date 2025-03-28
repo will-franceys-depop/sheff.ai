@@ -24,7 +24,7 @@ We work with teams who:
 * **Have AI projects stuck in proof-of-concept limbo** - We help you move from prototypes to production to get value from your AI investments. We focus on simple incremental improvements that get you the most value. 
 
 
-[:material-email: Request a Consultation](mailto:will.franceys@gmail.com){ .md-button .md-button--primary }
+[:material-email: Request a Consultation](mailto:team@sheff.ai){ .md-button .md-button--primary }
 
 
 ## Testimonials
@@ -61,5 +61,5 @@ We work with teams who:
 }
 </style>
 
-[:material-email: Contact Us](mailto:will.franceys@gmail.com){ .md-button .md-button--primary }
+[:material-email: Contact Us](mailto:team@sheff.ai){ .md-button .md-button--primary }
 [:material-calendar: Schedule a Call](https://form.typeform.com/to/Nfy53vRi){ .md-button .md-button--secondary }
