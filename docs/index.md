@@ -12,14 +12,6 @@ Together, we have delivered multimillion-pound innovations across industries, he
 
 We run a consulting practice focused on helping companies build better practices as many companies transition to AI.
 
-<!-- ## Previous Clients -->
-
-<!-- | Company | Role | Industry |
-|---------|------|----------|
-| Photon LER | CEO | Medical |
-| Filtered | CTO | Education | -->
-
-
 
 [Understand Our Services](./services.md){ .md-button .md-button--primary }
 

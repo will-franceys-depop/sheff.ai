@@ -30,6 +30,17 @@ We work with teams who:
 ## Testimonials
 
 <div class="testimonial-grid">
+
+  <div class="testimonial-card">
+    <p class="quote">"We needed support for a project in our backend ranking systems. This required strong expertise in real-time ML inference and the ability to collaborate with various teams (ranking ML engineers, BE engineers, MLOps, platform, etc.)<br><br>
+
+    <strong>We were very satisfied by the work done and the collaboration.</strong> Delivery was efficient and met all requirements, while also generating valuable insights around performance and cost. The team provided clear, honest recommendations.<br><br>
+
+    <strong>I would highly recommend their services to any team working on ML engineering challenges.</strong>
+    "</p>
+    <p class="author">— Guilhem, Senior Engineering Manager at Depop</p>
+  </div>
+
   <div class="testimonial-card">
     <p class="quote">"Before working with Will and Nadine, we were looking to develop a new software product to help radiologist consultant specialists. We were new to software development, and needed someone not only skilled but also trustworthy.<strong> Throughout the process, they provided incredible support, guiding us through the technical aspects and helping us take our idea from concept to a fully functional MVP</strong>. I’d recommend their services to anyone looking to turn an idea into a working product!"</p>
     <p class="author">— Simon, CEO at Photon LER</p>
@@ -44,6 +55,7 @@ We work with teams who:
     <p class="quote">"Our sessions have been really productive. <strong>Every session felt like a huge leap forward</strong>. Our code quality has improved greatly - the discussions were always enjoyable and time flew by! <strong>We saw a 3x speed up in our endpoints</strong>."</p>
     <p class="author">— Alex, Engineer at Filtered</p>
   </div>
+  
 </div>
 
 <style>
